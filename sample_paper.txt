@@ -1,0 +1,6 @@
+Transformers are neural network architectures based on self-attention mechanisms. 
+Unlike recurrent neural networks, transformers process all tokens in parallel, 
+which makes training more efficient. The model was introduced in the paper 
+"Attention Is All You Need". The main contribution was replacing recurrence with 
+self-attention for sequence modeling. Transformers were evaluated on machine 
+translation tasks and achieved strong performance.
